@@ -64,3 +64,7 @@ Ejecuta todas las celdas para cargar los datos y generar los gráficos interacti
 
 
 
+
+https://github.com/user-attachments/assets/4bd7cc5c-72fb-4af0-8560-5243aceeee1e
+
+
